@@ -1,0 +1,17 @@
+﻿@model Furniture
+
+<h1>@Model.FurnitureName</h1>
+
+<div class="thumbnail">
+    <img alt="@Model.FurnitureName" src="@Model.FurnitureImgUrl" />
+    <div class="caption-full">
+        <h3 class="pull-right">@Model.FurnitureName</h3>
+        <h3 class="pull-right">@Model.FurniturePrice</h3>
+        <p>@Model.FurnitureDescription</p>
+    </div>
+    <div class="cart">
+        <a class="btn btn-dark text-light" 
+            asp-controller="Cart" asp-action="AddtoCart"
+            asp-route-id="@Model.FurnitureID">Add to Cart</a>
+    </div>
+</div>

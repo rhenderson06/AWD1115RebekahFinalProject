@@ -1,0 +1,7 @@
+﻿@model FurnitureListViewModel
+
+<h1>@Model.CurrentCategory</h1>
+@foreach (var furniture in Model.Furnitures)
+{
+    <partial name="_card" model="furniture" />
+}

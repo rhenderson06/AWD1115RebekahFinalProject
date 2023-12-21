@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FurnitureStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FurnitureStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\ChristmasHeader.jpf",
+      "PackagePath": "staticwebassets\\ChristmasHeader.jpf"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\BedsideTable.jpg",
+      "PackagePath": "staticwebassets\\images\\BedsideTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\ChristmasHeader.jpg",
+      "PackagePath": "staticwebassets\\images\\ChristmasHeader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\CozyCorner.jpg",
+      "PackagePath": "staticwebassets\\images\\CozyCorner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\NeutralChristmasBed.jpg",
+      "PackagePath": "staticwebassets\\images\\NeutralChristmasBed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\BrownWoodDresser.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\BrownWoodDresser.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\GreyWoodDresser.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\GreyWoodDresser.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\GreyWoodNightStand.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\GreyWoodNightStand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\MetalBedFrame.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\MetalBedFrame.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\ModernBedFrame.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\ModernBedFrame.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\RusticNightStand.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\RusticNightStand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\Thumbnails\\BrownWoodDresserThumb.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\Thumbnails\\BrownWoodDresserThumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\Thumbnails\\GreyWoodDresserThumb.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\Thumbnails\\GreyWoodDresserThumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\Thumbnails\\GreyWoodNightStandThumb.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\Thumbnails\\GreyWoodNightStandThumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\Thumbnails\\MetalBedFrameThumb.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\Thumbnails\\MetalBedFrameThumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\WhiteWoodDresser.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\WhiteWoodDresser.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\bedroom\\WoodBedFrame.jpg",
+      "PackagePath": "staticwebassets\\images\\bedroom\\WoodBedFrame.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\BlackWoodChair.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\BlackWoodChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\BlackXDiningChair.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\BlackXDiningChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\CreamDiningChair.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\CreamDiningChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\DarkDiningSet.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\DarkDiningSet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\DarkRoundWoodDiningTable.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\DarkRoundWoodDiningTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\DenimDiningChair.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\DenimDiningChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\FarmhouseDiningBench.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\FarmhouseDiningBench.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\FarmhouseDiningChair.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\FarmhouseDiningChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\FarmhouseDiningSet.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\FarmhouseDiningSet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\FarmhouseDiningTable.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\FarmhouseDiningTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\LightDiningSet.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\LightDiningSet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\LightRoundWoodDiningTable.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\LightRoundWoodDiningTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\LightXDiningChair.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\LightXDiningChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\RusticDiningBench.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\RusticDiningBench.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\dining\\RusticDiningTable.jpg",
+      "PackagePath": "staticwebassets\\images\\dining\\RusticDiningTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\BasketSideTable.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\BasketSideTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\CageCoffeeTable.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\CageCoffeeTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\CreamChair.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\CreamChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\CreamConsoleTable.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\CreamConsoleTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\DarkRusticCabinet.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\DarkRusticCabinet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\DarkWoodCabinet.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\DarkWoodCabinet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\DenimChair.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\DenimChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\FauxLeatherChair.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\FauxLeatherChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\FauxLeatherCouch.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\FauxLeatherCouch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\FauxLeatherRecliner.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\FauxLeatherRecliner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\FireplaceTVStand.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\FireplaceTVStand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\HexSideTable.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\HexSideTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\LightRusticCabinet.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\LightRusticCabinet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\LightWoodCabinet.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\LightWoodCabinet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\RusticCoffeeTable.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\RusticCoffeeTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\RusticConsoleTable.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\RusticConsoleTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\RusticTVStand.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\RusticTVStand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\ScallopCoffeeTable.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\ScallopCoffeeTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\ScallopSideTable.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\ScallopSideTable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\ShellCouch.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\ShellCouch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\living\\VanillaSpeckedLoveSeat.jpg",
+      "PackagePath": "staticwebassets\\images\\living\\VanillaSpeckedLoveSeat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\office\\CreamDesk.jpg",
+      "PackagePath": "staticwebassets\\images\\office\\CreamDesk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\office\\CreamDeskChair.jpg",
+      "PackagePath": "staticwebassets\\images\\office\\CreamDeskChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\office\\CreamWoodDeskChair.jpg",
+      "PackagePath": "staticwebassets\\images\\office\\CreamWoodDeskChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\office\\DarkWoodDesk.jpg",
+      "PackagePath": "staticwebassets\\images\\office\\DarkWoodDesk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\office\\FarmhouseDesk.jpg",
+      "PackagePath": "staticwebassets\\images\\office\\FarmhouseDesk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\images\\office\\FauxLeatherDeskChair.jpg",
+      "PackagePath": "staticwebassets\\images\\office\\FauxLeatherDeskChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rebek\\Desktop\\Final Project\\AWD1115RebekahFinalProject\\FurnitureStore\\FurnitureStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FurnitureStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FurnitureStore.props",
+      "PackagePath": "build\\FurnitureStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FurnitureStore.props",
+      "PackagePath": "buildMultiTargeting\\FurnitureStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FurnitureStore.props",
+      "PackagePath": "buildTransitive\\FurnitureStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
