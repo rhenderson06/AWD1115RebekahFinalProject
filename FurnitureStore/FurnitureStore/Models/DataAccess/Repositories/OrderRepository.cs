@@ -7,9 +7,9 @@ namespace FurnitureStore.Models.DataAccess.Repositories
         private readonly FurnitureContext _context;
         private readonly Cart _cart;
 
-        public OrderRepository(FurnitureContext ctx, Cart cart)
+        public OrderRepository(FurnitureContext context, Cart cart)
         {
-            _context = ctx;
+            _context = context;
             _cart = cart;
         }
 
@@ -23,7 +23,7 @@ namespace FurnitureStore.Models.DataAccess.Repositories
 
             var cartItems = _cart.GetCartItems();
 
-            foreach (var cartItem in cartItems)
+            foreach(var cartItem in cartItems)
             {
                 var orderDetail = new OrderDetail
                 {

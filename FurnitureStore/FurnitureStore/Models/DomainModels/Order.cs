@@ -19,14 +19,17 @@ namespace FurnitureStore.Models.DomainModels
         public string LastName { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Enter your address")]
+        [Display(Name = "Address")
         [StringLength(50)]
         public string Address { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Enter your city")]
+        [Display(Name = "City")]
         [StringLength(25)]
         public string City { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Enter your state abbreviation")]
+        [Display(Name = "State")]
         [StringLength(2, MinimumLength = 2)]
         public string State { get; set; } = string.Empty;
 

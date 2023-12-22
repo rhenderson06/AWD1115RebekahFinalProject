@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\rebek\Desktop\AWD1115RebekahFinalProject\AWD1115RebekahFinalProject\FurnitureStore\FurnitureStore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/rebek/Desktop/AWD1115RebekahFinalProject/AWD1115RebekahFinalProject/FurnitureStore/FurnitureStore/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/rebek/Desktop/AWD1115RebekahFinalProject/AWD1115RebekahFinalProject/FurnitureStore/FurnitureStore/Views/Furniture/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVybml0dXJlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +32,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/rebek/Desktop/AWD1115RebekahFinalProject/AWD1115RebekahFinalProject/FurnitureStore/FurnitureStore/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebek/Desktop/AWD1115RebekahFinalProject/AWD1115RebekahFinalProject/FurnitureStore/FurnitureStore/Views/Order/CheckoutComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXRDb21wbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/rebek/Desktop/AWD1115RebekahFinalProject/AWD1115RebekahFinalProject/FurnitureStore/FurnitureStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebek/Desktop/AWD1115RebekahFinalProject/AWD1115RebekahFinalProject/FurnitureStore/FurnitureStore/Views/Shared/_furnitureCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mdXJuaXR1cmVDYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/rebek/Desktop/AWD1115RebekahFinalProject/AWD1115RebekahFinalProject/FurnitureStore/FurnitureStore/Views/_ViewImports.cshtml]

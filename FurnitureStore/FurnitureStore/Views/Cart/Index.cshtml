@@ -1,0 +1,43 @@
+﻿@model CartViewModel
+
+<h2>Order Overview</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Quanity</th>
+            <th>Item</th>
+            <th>Price</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cart.CartItems)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="Cart" asp-action="DeleteFromCart"
+                       asp-route-id="@item.Furniture.FurnitureID">Delete</a>
+                </td>
+                <td class="text-center">@item.Amount</td>
+                <td>@item.Furniture.FurnitureName</td>
+                <td>@item.Furniture.FurniturePrice.ToString("c")</td>
+                <td>@((item.Amount * item.Furniture.FurniturePrice).ToString("c"))</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4" class="text-right">Total</td>
+            <td class="text-right">@Model.CartTotal.ToString("c")</td>
+        </tr>
+    </tfoot>
+</table>
+
+<div>
+    <a class="btn btn-dark text-light" 
+        asp-controller="Order" asp-action="Checkout">Checkout</a>
+    <a class="btn btn-outline-dark"
+        asp-controller="Cart" asp-action="ClearCart">Clear Cart</a>
+</div>
